@@ -27,9 +27,11 @@ This is a QA automation project inspired by Acorns' recurring micro-investment f
    - `POST /deposit` to schedule a deposit
    - `GET /deposits/:userId` to view a user's deposits
 
-## 🎥 Demo
 
-Coming soon — 60-second walkthrough via Loom
+## 🎥 Project Walkthrough
+
+▶️ [Watch the 1-minute Loom demo](https://www.loom.com/share/4ee4c4eba09f45ee894cea27a101b525)
+
 
 ## 🙋 Why I Built This
 
